@@ -270,13 +270,13 @@ table.skill-path {
 	background-image: url("morgana/MorganaQ.png");
 }
 .table-cell-pic2{
-	background-image: url("morgana/Morganaw.png");
+	background-image: url("morgana/MorganaW.png");
 }
 .table-cell-pic3{
-	background-image: url("morgana/Morganae.png");
+	background-image: url("morgana/MorganaE.png");
 }
 .table-cell-pic4{
-	background-image: url("morgana/Morganar.png");
+	background-image: url("morgana/MorganaR.png");
 }
 .table-cell-pic1, .table-cell-pic2, .table-cell-pic3, .table-cell-pic4{
 	background-size: contain;
